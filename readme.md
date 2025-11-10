@@ -2,8 +2,6 @@
 
 ## About me
 
----
-
 -  Currently working on PHP / Laravel Projects and Mysql Databases.
 -  Also Currently learning Go , Java and Docker.
 -  Feel free to conatct me here : **abdulrahman.elnegery@gmail.com**
