@@ -2,7 +2,7 @@
 
 # Abdulrahman Mohammed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Building+products+that+ship+🚀)](https://git.io/typing-svg)
+Software Engineer · Full-Stack Developer
 
 </div>
 
@@ -18,7 +18,7 @@ I work mostly with **Laravel** and **PHP** on the backend, **Angular** on the fr
 
 **Backend**
 
-[![PHP & Laravel](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev) &nbsp;&nbsp;&nbsp; [![Other Backend](https://skillicons.dev/icons?i=go,java,spring,nodejs,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,java,spring,nodejs,mysql,postgres)](https://skillicons.dev)
 
 **Frontend**
 
@@ -35,5 +35,4 @@ I work mostly with **Laravel** and **PHP** on the backend, **Angular** on the fr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanelnegery)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanmuhammad)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18606007/abdelrahman-el-negery)
-
 [![Gmail](https://img.shields.io/badge/abdulrahman.elnegery@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdulrahman.elnegery@gmail.com)
