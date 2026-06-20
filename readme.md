@@ -1,16 +1,31 @@
-# 👋 Hi there
+# Abdulrahman Mohammed
 
-## About me
+Full-stack engineer focused on building and shipping real products — clean APIs, Angular frontends, and production infrastructure.
 
-- Softawre backend engineer , working on PHP / Laravel Projects and Mysql Databases.
-- Also Currently learning Go , Java and Docker.
-- Know about my experiences through my [resume](https://drive.google.com/file/d/1qfTKqrYuF6pL_OwCkRz32ih6KmNxw9Vn/view)
+Open to interesting opportunities.
+
 ---
 
-## Let's Connect
-  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanmuhammad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanelnegery)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18606007/abdelrahman-el-negery)
+## Stack
 
-- Feel free to conatct me here too : **abdulrahman.elnegery@gmail.com**
+**Backend** — PHP · Laravel · MySQL · REST APIs · Laravel Sanctum  
+**Frontend** — Angular · TypeScript · SCSS  
+**DevOps** — Linux · Nginx · GitHub Actions · DigitalOcean  
+**Tools** — Git · Docker · Redis · Postman
+
+---
+
+## Currently Building
+
+**[Booking System](https://github.com/abdulrahman-muhammed-07/booking-backend)** — Full-stack appointment booking platform.  
+Laravel 12 REST API · Angular 20 web app · production deployment on DigitalOcean.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanelnegery)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanmuhammad)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18606007/abdelrahman-el-negery)
+
+abdulrahman.elnegery@gmail.com
