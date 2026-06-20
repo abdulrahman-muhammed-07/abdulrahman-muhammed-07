@@ -15,13 +15,6 @@ Open to interesting opportunities.
 
 ---
 
-## Currently Building
-
-**[Booking System](https://github.com/abdulrahman-muhammed-07/booking-backend)** — Full-stack appointment booking platform.  
-Laravel 12 REST API · Angular 20 web app · production deployment on DigitalOcean.
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanelnegery)
