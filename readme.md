@@ -58,16 +58,6 @@ _Exploring: Go · Java / Spring · Rust_
 
 <div align="center">
 
-## 📈 Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman-muhammed-07&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanelnegery)
