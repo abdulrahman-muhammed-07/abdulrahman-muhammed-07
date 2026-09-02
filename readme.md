@@ -1,16 +1,23 @@
 <div align="center">
 
-# Abdulrahman Mohammed
+# Abdulrahman Muhammed
 
-Software Engineer · Full-Stack Developer
+Software engineer. PHP · Laravel · MySQL · Redis. Multi-tenant SaaS, payments, real-time services. Building [itsnoted.net](https://itsnoted.net)
 
 </div>
 
 ---
 
-Hey there! 👋 I'm a full-stack software engineer who enjoys building things that actually ship — from clean REST APIs to Angular frontends, with a good dose of DevOps along the way.
+Backend-focused software engineer. I build and run production systems — REST APIs,
+multi-tenant SaaS, payment integrations, message pipelines, and real-time services.
 
-I work mostly with **Laravel** and **PHP** on the backend, **Angular** on the frontend, and I'm always exploring new corners of the stack. Open to interesting opportunities. 🚀
+**Currently** building backend for a multi-tenant restaurant SaaS: reservations, payments
+(Paymob / GetPayin / Geidea), an SMS / WhatsApp / push messaging stack with a per-tenant
+template engine, and a Node.js WebSocket service for live updates — plus the Angular
+screens on top.
+
+**Live side project:** [itsnoted.net](https://itsnoted.net) — embeddable contact-sharing
+widget (Laravel 11, WhatsApp/SMS OTP auth), in production.
 
 ---
 
@@ -20,7 +27,7 @@ I work mostly with **Laravel** and **PHP** on the backend, **Angular** on the fr
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,java,spring,nodejs,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,nodejs)](https://skillicons.dev)
 
 **Frontend**
 
@@ -28,7 +35,9 @@ I work mostly with **Laravel** and **PHP** on the backend, **Angular** on the fr
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,nginx,docker,githubactions,azure,redis,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,docker,githubactions,azure,git,postman)](https://skillicons.dev)
+
+_Exploring: Go · Java / Spring · Rust_
 
 </div>
 
