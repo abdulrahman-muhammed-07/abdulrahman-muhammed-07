@@ -2,7 +2,7 @@
 
 # Abdulrahman Muhammed
 
-Software engineer. PHP · Laravel · MySQL · Redis. Multi-tenant SaaS, payments, real-time services. Building [itsnoted.net](https://itsnoted.net)
+Software engineer. PHP · Laravel · MySQL · Redis. Multi-tenant SaaS, payments, real-time services.
 
 </div>
 
