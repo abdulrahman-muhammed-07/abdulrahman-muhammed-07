@@ -41,8 +41,6 @@ Currently focused on production system design: tenant isolation at the query lay
 - Real-time delivery (Redis pub/sub, WebSockets)
 - Database optimization and index design
 
-<img height="145" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanelnegery&layout=compact&langs_count=8&hide_border=true&count_private=true" />
-
 ---
 
 > **Note:** My production work is proprietary. The systems below are described without source. The open-source repositories further down are separate, from-scratch implementations of the same patterns.
